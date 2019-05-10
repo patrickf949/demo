@@ -4,19 +4,22 @@
     "userId": 1,
     "id": 1,
     "title": "Talk Spanglish to Me",
-    "body": "Language was always my tool, my weapon, my security blanket. What happened when I lost the ability to use it?"
+    "body": "Language was always my tool, my weapon, my security blanket. What happened when I lost the ability to use it?",
+    "image": "http://best-sci-fi-books.com/wp-content/uploads/2017/02/underrated.png"
   },
   {
     "userId": 1,
     "id": 2,
     "title": "Some awesome modern C++ features that every developer should know…don’t miss out!",
-    "body": "Don’t get the wrong idea that the language has become easier. It still is one of the hardest programming languages, if not the hardest one, that are used widely. But C++ has also become much more user friendly than its previous versions"
+    "body": "Don’t get the wrong idea that the language has become easier. It still is one of the hardest programming languages, if not the hardest one, that are used widely. But C++ has also become much more user friendly than its previous versions",
+    "image": "https://www.archives.gov/files/war-1812-6384919-m.jpg"
   },
   {
     "userId": 1,
     "id": 3,
     "title": "If You Blink, We Go Back to the Start",
     "body": "the dream I’m kissing a faceless void. My mouth touches nothing but emptiness. I am 14 and no one has kissed me, so I dream of it, yet my mouth has no memory. But I’m 14, and I’m horny, and I want so much to be kissed. I want to know what another mouth tastes like. My jaw works in a sloppy approximation of kissing toward this void, this empty face. When I’m alone in my room I sometimes rub my lips and tongue against the back of my hand, imagining the taste of someone else’s skin."
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmX0O3xeZmggylfEFhugaTUGmRfEna4D8ibDHlbehmd9ois1_"
   }
   ],
   "comments": [
